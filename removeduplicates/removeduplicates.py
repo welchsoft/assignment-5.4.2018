@@ -1,6 +1,6 @@
 #provided array with duplicates
 names = ["Alex","John","Mary","Steve","John", "Steve"]
-#empty array for sotring only unique entries
+#empty array for sorting only unique entries
 dupe_check = []
 
 #populate empty array with unique entries only
